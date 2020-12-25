@@ -1,6 +1,6 @@
 # Zudp
 
-Simle tool for receive UDP datagrams.
+Simple tool for receive UDP datagrams.
 
 ## Use cases
 
